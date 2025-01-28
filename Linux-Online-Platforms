@@ -1,0 +1,26 @@
+There are several online Linux platforms where you can practice basic commands, try out exercises, and get hands-on experience with Linux environments. Here are a few good options:
+
+1. Jupyter Notebooks with Linux Kernels (Google Colab)
+Google Colab offers a great way to practice Linux commands via a virtual environment with access to a shell.
+You can run bash commands directly in the cells using the ! prefix.
+Website: Google Colab
+2. repl.it (Replit)
+Replit offers an interactive shell where you can practice not only Linux commands but also code in various languages. You can spin up a new Replit for bash scripting and try commands right away.
+Website: Replit
+3. Katacoda
+Katacoda offers interactive scenarios with step-by-step tutorials that help you learn basic and advanced Linux commands in a live environment.
+You can practice Linux commands, networking, containers, and more.
+Website: Katacoda
+4. Linuxzoo
+Linuxzoo offers free virtual machines that let you practice Linux commands. It also provides a small list of tasks and exercises to help you practice and learn.
+Website: Linuxzoo
+5. Webminal
+Webminal is an online Linux terminal where you can practice Linux commands and basic shell scripting. You can create an account and try various exercises and commands.
+Website: Webminal
+6. OverTheWire (Bandit)
+OverTheWire provides a series of challenges focused on learning Linux commands and security concepts. It's a great resource for learning through hands-on exercises.
+Website: OverTheWire
+7. Learn Linux Commands (LinuxCommand.org)
+This site provides a beginner-friendly introduction to Linux commands, with examples and exercises that are great for someone starting out with Linux.
+Website: LinuxCommand.org
+These platforms should give you a variety of ways to practice Linux commands and build your confidence. Have you tried any of these before, or are you looking for more specific types of exercises?
