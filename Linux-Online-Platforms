@@ -1,5 +1,14 @@
 There are several online Linux platforms where you can practice basic commands, try out exercises, and get hands-on experience with Linux environments. Here are a few good options:
 
+Links:
+===========
+https://www.tutorialspoint.com/linux_terminal_online.php
+https://www.terminaltemple.com/
+https://labex.io/labs/linux-your-first-linux-lab-270253?course=quick-start-with-linux
+https://bellard.org/jslinux/
+
+And ..
+
 1. Jupyter Notebooks with Linux Kernels (Google Colab)
 Google Colab offers a great way to practice Linux commands via a virtual environment with access to a shell.
 You can run bash commands directly in the cells using the ! prefix.
