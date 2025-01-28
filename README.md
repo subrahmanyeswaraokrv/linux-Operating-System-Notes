@@ -1,5 +1,5 @@
 # linux-Operating-System-Notes
-Linux Operating System Notes
+Linux Operating System Notes  - Subrahmanyeswarao Karri
 Welcome to the Linux Operating System Notes repository! This repository serves as a collection of knowledge and resources, ranging from basic to advanced Linux operations. Whether you're a beginner trying to get familiar with Linux or an advanced user looking to refine your skills, you'll find helpful information here.
 
 Table of Contents
